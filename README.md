@@ -8,6 +8,7 @@
 </p>
 
 <p float="left">
-  <img src="/Setting Photos/20191016_171720.jpg" width="40%" />
-  <img src="Ref-Papers/Paper 3/intro2.png" width="40%"/> 
+  <img src="/Setting Photos/20191016_171720.jpg" width="45%" />
+  <img src="Ref-Papers/Paper 3/intro2.png" width="45%"/> 
 </p>
+
