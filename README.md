@@ -12,3 +12,7 @@
   <img src="Ref-Papers/Paper 3/intro2.png" width="43%"/> 
 </p>
 
+
+<p float="left">
+  <img src="/Friday-Reports/Zoom Meeting.png" width="75%"/> 
+</p>
