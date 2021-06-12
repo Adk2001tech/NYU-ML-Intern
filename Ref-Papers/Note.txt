@@ -1,0 +1,32 @@
+Loss-
+	RMSE
+	Divergence==0
+	the average of absolute divergence over all pixels at each prediction step as an additional evaluation metric.
+	L1 Loss
+
+learning rate decay
+L1 or L2 norms.
+
+Model-
+
+https://github.com/qubvel/segmentation_models
+https://github.com/mrgloom/awesome-semantic-segmentation/blob/master/README.md
+
+
+matthew.frenkel@nyu.edu and azure.stewart@nyu.edu
+
+
+
+Make Model more generalized
+
+Data-Augmentation
+Batch Normalization
+Learning rate decay
+Regularization (Weight parameters)
+Model Architectures
+
+
+https://towardsdatascience.com/how-to-load-matlab-mat-files-in-python-1f200e1287b5
+
+
+https://docs.google.com/presentation/d/1URzrfSq3_m-Rg514i2OddkElhdYgHmoOGRPVHvNzHlA/edit#slide=id.gdf7aa8a6e7_0_0
