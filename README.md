@@ -8,14 +8,14 @@ Developing Deep learning methods that can incorporate
 ## Experimental Setup
 
 <p float="left">
-  <img src="/Setting Photos/20191011_115200.jpg" width="30%" />
-  <img src="/Setting Photos/20190808_185206.jpg" width="30%" /> 
-  <img src="/Setting Photos/20191011_115450.jpg" width="30%" />
+  <img src="/Setting Photos/20191011_115200.jpg" width="25%" />
+  <img src="/Setting Photos/20190808_185206.jpg" width="25%" /> 
+  <img src="/Setting Photos/20191011_115450.jpg" width="25%" />
 </p>
 
 <p float="left">
-  <img src="/Setting Photos/20191016_171720.jpg" width="43%" />
-  <img src="Ref-Papers/Paper 3/intro2.png" width="43%"/> 
+  <img src="/Setting Photos/20191016_171720.jpg" width="40%" />
+  <img src="Ref-Papers/Paper 3/intro2.png" width="40%"/> 
 </p>
 
 ## Zoom-Meets
